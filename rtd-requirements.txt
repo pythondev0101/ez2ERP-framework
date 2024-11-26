@@ -1,4 +1,4 @@
-Pygments==2.6.1
+Pygments==2.7.4
 Sphinx==3.0.3
 rinohtype==0.4.0
 sphinx-glpi-theme==0.3
